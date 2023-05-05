@@ -43,7 +43,7 @@ body{
     border:none;
 }
 #new{
-    padding-left:10%;
+    justify-content: left;
     
     color:#000000;
     display:flexbox;
